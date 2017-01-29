@@ -1,0 +1,8 @@
+Double INT
+---------
+
+So working on Learn Java the hard way. It explains what the integer datatype is.
+What if you need to have a decimal? Well, there is the double datatpye for that.
+What if you have a double and need it to round down. Well you need to "Cast a double to an INT". Below is the code to do so.
+
+System.out.println((int)(99.9999)); 

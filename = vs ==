@@ -1,0 +1,13 @@
+= vs ==
+
+This seems trivial but it is important to understand.
+" = " is used to set a variable or something to a value of something else for example,
+
+A = 1
+c = A + b
+
+== is used when comparing a value to something for example
+
+ 8 == 9 ; false 
+
+ 
